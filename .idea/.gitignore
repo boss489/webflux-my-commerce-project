@@ -1,0 +1,23 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Zeppelin ignored files
+/ZeppelinRemoteNotebooks/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+target/
+out/
+.idea/
+*.log
+*.bak
+*.swp
+*.tmp
+*.DS_Store
